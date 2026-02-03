@@ -1,6 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-- **Name:** HARISH S
-- **Register Number:** 212224040105
+- **Name:** MUKESH D
+- **Register Number:** 212224040204
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
